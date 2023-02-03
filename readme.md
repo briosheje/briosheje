@@ -28,3 +28,6 @@ I occasionally try to contribute to open source projects or make my own, my tech
 - ... and much more.
 
 I'm extremely passionate about my work and I try to dedicate also my free time to keep myself updated on emerging technologies, always ready to learn something new and experiment on something unknown yet.
+
+Some cool stats:
+![sum stats](https://github-readme-stats.vercel.app/api?username=briosheje&count_private=true)
